@@ -1345,6 +1345,10 @@ Instead edit gulp/templates/sprite  KEK*/
 	}
 	}
 
+.primary-nav a.is-current-link {
+			color: #fabb69;
+		}
+
 .reveal-item {
   opacity: 0;
   -webkit-transition: all 1.5s ease-out;
